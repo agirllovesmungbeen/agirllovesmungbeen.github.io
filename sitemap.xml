@@ -3,7 +3,12 @@
 
     <sitemap>
         <loc>http://agirllovesmungbeen.github.io/post-sitemap.xml</loc>
-        <lastmod>2017-10-06T17:52:42.000Z</lastmod>
+        <lastmod>2017-11-05T05:13:05.124Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>http://agirllovesmungbeen.github.io/page-sitemap.xml</loc>
+        <lastmod>2017-10-28T02:46:50.354Z</lastmod>
     </sitemap>
 
 </sitemapindex>
