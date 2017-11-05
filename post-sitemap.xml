@@ -8,15 +8,7 @@
 
     <url>
         <loc>http://agirllovesmungbeen.github.io/20171105.html</loc>
-        <lastmod>2017-11-05T05:13:05.124Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://agirllovesmungbeen.github.io/220171025.html</loc>
-        <lastmod>2017-10-06T17:52:42.000Z</lastmod>
+        <lastmod>2017-11-05T05:22:44.354Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -24,6 +16,14 @@
 
     <url>
         <loc>http://agirllovesmungbeen.github.io/my-first-blog.html</loc>
+        <lastmod>2017-10-06T17:52:42.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://agirllovesmungbeen.github.io/220171025.html</loc>
         <lastmod>2017-10-06T17:52:42.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
